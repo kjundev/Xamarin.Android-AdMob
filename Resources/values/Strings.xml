@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello AdMob!</string>
+    <string name="ApplicationName">AdMob</string>
+    <string name="AdMobID">ca-app-pub-4681470946279796/9940497268</string>
+</resources>
