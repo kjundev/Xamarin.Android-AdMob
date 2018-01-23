@@ -1,4 +1,4 @@
-# AdMob-Xamarin.Android
+# Xamarin.Android-AdMob
 
 http://kjcoder.tistory.com/277
 
